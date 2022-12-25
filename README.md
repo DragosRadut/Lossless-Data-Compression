@@ -16,6 +16,9 @@ Both run rules use **run_all.py**. Encoded binary files are stored in **out** di
 make run-other (both methods)
 ```
 
+## Limitations
+### Huffman Coding
+Tested up to 12MB input file size. Some tests may produce first symbols being missed-replaced when decoding. Implementation only works with *latin-1* characters.
 
-
-
+### LZ77
+Tested up to 1MB input file size. Compression speed getting exponentially lower with higher input data size.
