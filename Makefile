@@ -7,5 +7,7 @@ run-lz77:
 run-best:
 	python run_all.py lz77
 	
+run-other:
+	python run_all.py other
 clean:
 	rm -rf ./out/.*
