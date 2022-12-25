@@ -1,6 +1,7 @@
 # Lossless-Data-Compression
 Implementation provides an demonstational approach of in use compression methods.
-` Comparative analysis and detailed explanation : [Algorithm-Analysis.pdf](./Algorithm-Analysis.pdf) `
+` Comparative analysis and detailed explanation : `
+[Algorithm-Analysis.pdf](./Algorithm-Analysis.pdf)
 
 ## Running
 ``` 
