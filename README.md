@@ -1,5 +1,6 @@
 # Lossless-Data-Compression
 Implementation provides an demonstational approach of in use compression methods.
+` Comparative analysis and detailed explanation : [Algorithm-Analysis.pdf](./Algorithm-Analysis.pdf) `
 
 ## Running
 ``` 
@@ -10,4 +11,4 @@ Both run rules use **run_all.py**. Encoded binary files are stored in **out** di
 ## Huffman Coding
 
 
-[Algorithm-Analysis.pdf](./Algorithm-Analysis.pdf)
+
